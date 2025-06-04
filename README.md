@@ -18,7 +18,9 @@
 
 ### 🌐 Demo en Vivo
 ```
-🔗 URL DEMO: [Insertar aquí la URL de tu demo en vivo]
+🔗 URL DEMO: [https://teclab.uct.cl/~benjamin.contreras/Numero1/CRUD-Benja/login.php]
+
+Credenciales Login: Usuario: admin  Contraseña: 123456
 ```
 
 ### 👤 Credenciales de Acceso
